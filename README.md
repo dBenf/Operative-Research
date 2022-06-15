@@ -1,5 +1,5 @@
 # Ricerca-Operativa
-This repository contains the solutions proposed for the final project of the Ricerca Operativa course (AY 20/21) at the University of Naples Federico II.
+This repository contains the solutions proposed for the final project of the Ricerca Operativa course (AY 20/21) at the *University of Naples Federico II*.
 
 ## Project
 The project's solution is based on the **Hack@Napoli** hackathon **"L’astronave scientifica Ruthig"** provided by *Math2B s.r.l.* on 4th June 2021.
