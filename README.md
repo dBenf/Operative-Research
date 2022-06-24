@@ -1,4 +1,4 @@
-# Ricerca-Operativa
+# Operative Research
 This repository contains the solutions proposed for the final project of the Ricerca Operativa course (AY 20/21) at the *University of Naples Federico II*.
 
 ## Project
